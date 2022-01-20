@@ -1,0 +1,43 @@
+body
+{
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  background: #a8edea;
+  background: -webkit-linear-gradient(to right, rgba(168, 237, 234, 0.5), rgba(254, 214, 227, 0.5));
+  background: linear-gradient(to right, rgba(168, 237, 234, 0.5), rgba(254, 214, 227, 0.5))
+  
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: double 8px black;
+  width: 300px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  color: #111311;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(25, 144, 212);
+}
